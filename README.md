@@ -1,4 +1,4 @@
-# C.ai_Scrap
+# C.ai Scrap
 
 ![alt text](https://github.com/johnw1llliam/C.ai_Scrap/blob/main/C.ai%20Scrap%20Thumbnail.png?raw=true)
 

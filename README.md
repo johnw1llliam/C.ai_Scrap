@@ -1,6 +1,6 @@
 # C.ai Scrap
 
-![alt text](https://github.com/johnw1llliam/C.ai_Scrap/blob/main/C.ai%20Scrap%20Thumbnail.png?raw=true)
+<img src="https://drive.google.com/uc?export=view&id=1pTLeFRXq9o86r8o7oND4ws8DdGn8TO2a">
 
 Web scraping script for c.ai live chat. You can use the data or answer from the ai for anything such as voice generation or data collection. Keep in mind that the web driver window has to be open and always on top so the generated text can be scrapped by the bot.
 
